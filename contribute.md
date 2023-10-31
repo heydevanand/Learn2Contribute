@@ -75,8 +75,8 @@ We value a positive and inclusive contribution environment. Please keep the foll
 
 We've curated a wealth of resources to help you navigate your journey as a contributor, providing you with the knowledge and tools you need to make a meaningful impact on our project and the broader open-source community. We recommend you to follow order given below.
 
-1. Version Control: Git [Version Control Guide](./version-control/git.md)
-2. Development Environment: Visual Studio Code [VS Code Guide](.development/vscode.md)
+1. Version Control: [Git Version Control Guide](./version-control/git.md)
+2. Development Environment: [Visual Studio Code Guide](.development/vscode.md)
 3. Collaboration Platform: GitHub [GitHub Guide](./collaboration/github.md)
 4. Documentation Tools: Markdown [Markdown Guide](/documentation/markdown.md)
 
