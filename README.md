@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Learn2Contribute</h1>
-  <strong>Documentation for popular programming languages and frameworks.</strong><br>
+  <strong>An Open Source Hub Docs.</strong><br>
   <strong>Guidance to Learning, Gateway to Contributing.</strong>
 </div>
 <br>
