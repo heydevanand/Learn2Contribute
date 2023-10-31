@@ -72,12 +72,12 @@ We value a positive and inclusive contribution environment. Please keep the foll
 
 ## Resource Folders
 
-To make it easy for you to contribute to our project, we have created a learning roadmap to make your open source contributor's journey easy. We recommend you to go through them in order provided and make yourself familiar with open source community.
+We've curated a wealth of resources to help you navigate your journey as a contributor, providing you with the knowledge and tools you need to make a meaningful impact on our project and the broader open-source community. We recommend you to follow order given below.
 
-1- Version Control: Git [Version Control Guide](./version-control/git.md)
-2- Development Environment: Visual Studio Code [VS Code Guide](.development/vscode.md)
-3- Collaboration Platform: GitHub [GitHub Guide](./collaboration/github.md)
-4- Documentation Tools: Markdown [Markdown Guide](/documentation/markdown.md)
+1. Version Control: Git [Version Control Guide](./version-control/git.md)
+2. Development Environment: Visual Studio Code [VS Code Guide](.development/vscode.md)
+3. Collaboration Platform: GitHub [GitHub Guide](./collaboration/github.md)
+4. Documentation Tools: Markdown [Markdown Guide](/documentation/markdown.md)
 
 We look forward to your contributions and aim to create a welcoming and collaborative atmosphere. Thank you for helping us make Learn2Contribute better!
 
