@@ -45,7 +45,9 @@ Specify the code of conduct that contributors and participants are expected to f
 
 ## Licensing
 
-State the open source license under which your project is released. Clarify how your project can be used, modified, and distributed.
+The Open Source Hub Docs web application is licensed under the [MIT License](LICENSE). 
+
+By contributing to this project, you agree to the following term: All contributions to this project will be copyrighted to Learn2Contribute.
 
 ## Contact Information
 
