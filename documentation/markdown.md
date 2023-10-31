@@ -2,6 +2,28 @@
 
 Let's learn Markdown.
 
+### Table of contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Basic Formatting in Markdown](#basic-formatting-in-markdown)
+- [Headings](#headings)
+- [Lists](#lists)
+- [Links](#links)
+- [Images](#images)
+- [Emphasis and Strong](#emphasis-and-strong)
+- [Blockquotes](#blockquotes)
+- [Code Blocks](#code-blocks)
+- [Horizontal Rules](#horizontal-rules)
+- [Tables](#tables)
+- [Advanced Nested Lists](#advanced-nested-lists)
+- [Footnotes](#footnotes)
+- [Defination Lists](#defination-lists)
+- [GitHub Flavored Markdown](#github-flavored-markdown)
+- [Markdown Editors](#markdown-editors)
+- [Tips and Best Practices](#tips-and-best-practices)
+- [Resources](#resources)
+
 ### Introduction
 
 Markdown is a versatile and easy-to-learn markup language widely used for creating documentation, notes, and web content. It allows you to format text without the complexities of HTML or rich text editors.
