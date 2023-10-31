@@ -73,7 +73,8 @@ We use markdown to create our Content. When creating content in Markdown, consid
 
 - **Tables**: Create tables using pipes (`|`) and hyphens (`-`).
 
-For a more detailed guide on Markdown formatting, please refer to our [Markdown Guide](/documentation/markdown.md) in our repository. If you want to use anyother tool to create content please discuss regarding it in GitHub Discussions before starting your work.
+For a more detailed guide on Markdown formatting, please refer to our [Markdown Guide](/documentation/markdown.md) in our repository. If you want to use anyother tool to create content please discuss regarding it in [GitHub Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
+ before starting your work.
 
 ## Submitting Content
 
