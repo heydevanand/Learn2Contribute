@@ -1,6 +1,7 @@
-#Learn2Contribute
-
-# Let's learn Markdown.
+<div align="center">
+  <h1>Learn2Contribute</h1>
+</div>
+<br>
 
 ## Table of contents
 
