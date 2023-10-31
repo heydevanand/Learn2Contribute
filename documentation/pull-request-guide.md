@@ -85,3 +85,8 @@ Your pull request will be reviewed by project maintainers. Please be responsive 
 
 By contributing to Learn2Contribute, you agree that your contributions will be subject to the project's MIT License. You also grant a license to the project to use and distribute your work.
 
+Your contributions to our project are greatly appreciated, and we value your commitment to creating high-quality content. Thank you for helping us build a valuable resource for our community.
+
+If you have questions or need assistance, please reach out to us through [GitHub Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
+ or by opening an issue.
+
