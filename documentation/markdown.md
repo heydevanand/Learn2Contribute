@@ -802,7 +802,7 @@ Markdown is a simple and versatile markup language, and using it effectively inv
 Markdown is a versatile tool for creating various types of content, from documents and articles to code documentation and project READMEs. By following these best practices, you can create well-structured, readable, and professional Markdown documents.
 
 
-##### Resources
+## Resources
 
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [GitHub's Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
