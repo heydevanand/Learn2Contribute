@@ -165,5 +165,6 @@ By contributing content to Learn2Contribute, you agree to the following:
 
 Your contributions to our project are greatly appreciated, and we value your commitment to creating high-quality content. Thank you for helping us build a valuable resource for our community.
 
-If you have questions or need assistance, please reach out to us through GitHub discussions or by opening an issue.
+If you have questions or need assistance, please reach out to us through [GitHub Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
+ or by opening an issue.
 
