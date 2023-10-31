@@ -541,6 +541,7 @@ This is a sentence with a footnote[^1]: The inline footnote content.
 
 Footnotes are useful for adding explanatory notes, citations, or references without cluttering the main text. You can place the footnote content at the end of your document or inline with the text, depending on your preferences.
 
+To see how footnotes were added go to bottom of this guide.
 
 ## Defination Lists
 
