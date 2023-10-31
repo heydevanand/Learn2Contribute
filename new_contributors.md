@@ -29,7 +29,7 @@ We embrace the open source philosophy of collaboration, transparency, and inclus
 
 ### 3. Participate in Discussions
 
-- Join our [GitHub Discussions Forum](./discussions) to share your ideas, provide feedback, and engage with other contributors. Your input is valuable in shaping the project's direction.
+- Join our GitHub Discussions Forum to share your ideas, provide feedback, and engage with other contributors. Your input is valuable in shaping the project's direction.
 
 ### 4. Creating a Healthy and Welcoming Environment
 
