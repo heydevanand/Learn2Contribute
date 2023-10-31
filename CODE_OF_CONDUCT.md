@@ -1,6 +1,10 @@
 
 # Code of Conduct
 
+Learn2Contribute is open source project that welcomes every individuals irrespective of their region,
+language or expertise. We aims to foster an ethical and respectful community where everyone feel welcoming
+and supported.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
