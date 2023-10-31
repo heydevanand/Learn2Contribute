@@ -1,8 +1,8 @@
 #Learn2Contribute
 
-Let's learn Markdown.
+# Let's learn Markdown.
 
-### Table of contents
+## Table of contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -24,20 +24,20 @@ Let's learn Markdown.
 - [Tips and Best Practices](#tips-and-best-practices)
 - [Resources](#resources)
 
-### Introduction
+## Introduction
 
 Markdown is a versatile and easy-to-learn markup language widely used for creating documentation, notes, and web content. It allows you to format text without the complexities of HTML or rich text editors.
 
-### Getting Started
+## Getting Started
 
 - To get started with Markdown, all you need is a plain text editor.
 - Save files with the .md extension.
 
-### Basic Formatting in Markdown
+## Basic Formatting in Markdown
 
 Markdown allows you to format text with simplicity and ease. Here are some common basic formatting options:
 
-## Emphasis (Italics)
+### Emphasis (Italics)
 
 To create italic text, enclose the text within single asterisks `*` or underscores `_`.
 
@@ -46,7 +46,7 @@ Example: *Italic Text* or _Italic Text_
 *Italic Text* or _Italic Text_
 ```
 
-## Strong Emphasis (Bold)
+### Strong Emphasis (Bold)
 
 To make text bold, use double asterisks `**` or double underscores `__` to enclose the text.
 
@@ -56,7 +56,7 @@ Example: **Bold Text** or __Bold Text__
 **Bold Text** or __Bold Text__
 ```
 
-## Strikethrough
+### Strikethrough
 
 You can strike through text by enclosing it with two tildes `~~`.
 
@@ -66,7 +66,7 @@ Example: ~~Strikethrough Text~~
 ~~Strikethrough Text~~
 ```
 
-## Inline Code
+### Inline Code
 
 To format text as inline code, enclose it within backticks (\`).
 
@@ -77,7 +77,7 @@ Example: `Inline Code`
 ```
 These are the fundamental formatting options in Markdown. You can use these options to style your text and make it more readable and expressive.
 
-### Headings
+## Headings
 
 In Markdown, you can create different levels of headings by using hash # symbols. Here are examples of different types of headings:
 
@@ -116,7 +116,7 @@ This will result in:
 
 You can choose the appropriate heading level based on the hierarchy of your document or the desired visual style. Headings are a great way to structure your content and make it more readable.
 
-### Lists
+## Lists
 
 Markdown supports both ordered and unordered lists. Here are examples of different types of lists:
 
@@ -159,7 +159,7 @@ This will render as:
 You can use hyphens, asterisks, or plus signs for unordered lists, and numbers for ordered lists. Additionally, you can create nested lists by indenting items using spaces or tabs. Lists are a great way to organize content in a structured manner.
 
 
-### Links
+## Links
 
 You can create links using both inline and reference styles. Here are examples of different types of links:
 
@@ -197,7 +197,7 @@ This will render as: Visit [Google][]. This is a reference link.
 You can use either style, but reference links can be particularly useful when you want to keep your content clean and easily maintainable, especially for long documents with many links.
 
 
-### Images
+## Images
 
 You can add images to your content using both inline and reference styles. Here are examples of different types of image embedding:
 
@@ -246,7 +246,7 @@ Reference-style images are helpful for maintaining a clean and organized Markdow
 
 
 
-### Emphasis and Strong
+## Emphasis and Strong
 
 You can apply emphasis and strong formatting to your text. Here are examples of different types of emphasis and strong text:
 
@@ -271,7 +271,7 @@ This will render as: **Bold Text**.
 You can choose between single or double symbols for emphasis and strong text, based on your preference and style consistency. These formatting options are particularly useful when you want to emphasize certain words or phrases within your text.
 
 
-### Blockquotes
+## Blockquotes
 You can create blockquotes to emphasize and distinguish quoted text from the rest of your content. Here's how to format blockquotes:
 
 Blockquote:
@@ -305,7 +305,7 @@ This will render as:
 Blockquotes are commonly used for quoting external sources or providing context to text within your document. You can nest blockquotes to different levels to create visually distinct quotes.
 
 
-### Code Blocks
+## Code Blocks
 
 You can create code blocks to display code or programming examples. Here's how to format code blocks:
 
@@ -344,7 +344,7 @@ This will render as:
 Code blocks are useful for displaying code snippets and making them stand out from the regular text. You can choose the method that best suits your needs and style.
 
 
-### Horizontal Rules
+## Horizontal Rules
 
 You can add horizontal rules to separate sections or content with a horizontal line. Here's how to create horizontal rules:
 
@@ -380,7 +380,7 @@ ___
 Horizontal rules are a simple and effective way to visually separate sections or content within your Markdown document. You can choose the style that best suits your design preferences.
 
 
-### Tables
+## Tables
 
 You can create tables to display tabular data using a simple and intuitive syntax. Here's how to format tables:
 
@@ -423,7 +423,7 @@ For more advanced tables with spanning cells and complex formatting, you might c
 Markdown tables are a straightforward way to present tabular data, and you can customize them to fit your specific needs.
 
 
-### Advanced Nested Lists
+## Advanced Nested Lists
 
 You can create advanced nested lists, including task lists, definition lists, and more. Here are examples of different types of advanced nested lists:
 
@@ -488,7 +488,7 @@ This will render as:
 
 Advanced nested lists provide flexibility for organizing and structuring various types of content within your Markdown documents.
 
-### Footnotes
+## Footnotes
 
 You can add footnotes to your document to provide additional information or references. Here's how to format footnotes:
 
@@ -540,7 +540,7 @@ This is a sentence with a footnote[^1]: The inline footnote content.
 Footnotes are useful for adding explanatory notes, citations, or references without cluttering the main text. You can place the footnote content at the end of your document or inline with the text, depending on your preferences.
 
 
-### Defination Lists
+## Defination Lists
 
 You can create definition lists to explain terms or concepts. A definition list consists of terms followed by their corresponding definitions. Here's how to format definition lists:
 
@@ -599,7 +599,7 @@ Term 2:
 Definition lists are a useful way to explain terms, concepts, or relationships within your Markdown documents. You can nest definitions to represent various levels of detail.
 
 
-### GitHub Flavored Markdown
+## GitHub Flavored Markdown
 
 GitHub Flavored Markdown (GFM) is a Markdown dialect used by GitHub that extends the standard Markdown syntax to include additional features and improvements. These extensions are specifically designed to enhance the rendering of Markdown content on the GitHub platform. Some of the key features of GitHub Flavored Markdown include:
 
@@ -731,7 +731,7 @@ Footnotes
 This is the content of the footnote. ↩
 
 
-### Markdown Editors
+## Markdown Editors
 
 Markdown editors are text editors or software applications designed for creating, editing, and previewing Markdown documents. They make it easier for users to write and format 
 Markdown text without needing to remember or manually write the Markdown syntax. Markdown editors are popular among writers, bloggers, software developers, and anyone who prefers a simple and efficient way to create structured documents for various purposes.
@@ -753,7 +753,7 @@ Popular Markdown editors include:
 - Ulysses: A Markdown editor for macOS and iOS, popular among writers.
 
 
-### Tips and Best Practices
+## Tips and Best Practices
 
 Markdown is a simple and versatile markup language, and using it effectively involves understanding some key tips and best practices. Here are some tips to help you make the most of Markdown:
 
@@ -800,7 +800,7 @@ Markdown is a simple and versatile markup language, and using it effectively inv
 Markdown is a versatile tool for creating various types of content, from documents and articles to code documentation and project READMEs. By following these best practices, you can create well-structured, readable, and professional Markdown documents.
 
 
-### Resources
+##### Resources
 
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [GitHub's Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
