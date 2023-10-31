@@ -55,7 +55,8 @@ Share contact details or links where interested individuals can reach out to you
 
 Acknowledge and thank individuals or projects that have inspired or supported your project's development.
 
-## Conclusion
+## Thanks 💜
+Thanks for all your contributions and efforts towards Learn2Contribute. We thank you for being part of our ⭐ community ⭐.
 
 Summarize your project's vision and the role you hope it plays in the open source community. Reiterate your enthusiasm for collaboration and contributions.
 
