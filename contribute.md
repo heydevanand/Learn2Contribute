@@ -32,7 +32,7 @@ Contributions are an essential part of the open-source community, and we appreci
 
 ## Using GitHub for Contributions
 
-If you're new to GitHub, you can familiarize yourself with the platform by reading the [GitHub Documentation](https://docs.github.com/en/github) or you can go through our [GitHub Guide](./collaboration/github.md)
+If you're new to GitHub, you can familiarize yourself with the platform by reading the [GitHub Documentation](https://docs.github.com/en/github) or you can go through our [GitHub Guide](./collaboration/github.md).
 
 ## Setting Up a Pull Request
 
