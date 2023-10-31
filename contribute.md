@@ -54,7 +54,8 @@ If you want to contribute by writing content for the project, follow these steps
 
 ## Participating in Discussions
 
-Join discussions in our [GitHub Discussions Forum](./discussions) to share your ideas, provide feedback, and engage with other contributors. Your input is valuable in shaping the project's direction.
+Join discussions in our [GitHub Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
+ to share your ideas, provide feedback, and engage with other contributors. Your input is valuable in shaping the project's direction.
 
 ## Creating a Healthy and Welcoming Environment
 
