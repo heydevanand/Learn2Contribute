@@ -56,13 +56,11 @@ Learn2Contribute aspires to create a dynamic, inclusive, and vibrant community w
 
 ## Contribute
 Learn2Contribute aims to bridge the gap between academic world and industry ready skills. We think that open source is great way to solve this problem and you can become an
-active contributor to it by being part of our open source project. <br/>
+active contributor to it by being part of our open source project. We welcome you as fellow [Contributor](contribute.md).
 
-[Contribute](contribute.md)
 
 ## Code of Conduct
-Respectful and inclusive community: Read our 'Code of Conduct' for guidelines on expected behavior. <br/>
-[Code of Conduct](code-of-conduct.md)
+Respectful and inclusive community: Read our ['Code of Conduct'](code-of-conduct.md) for guidelines on expected behavior. <br/>
 
 ## Licensing
 
