@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Learn2Contribute</h1>
-  <strong>An Open Source Hub</strong><br>
-  <strong>Guidance to Learning, Gateway to Contributing.</strong>
+  <strong>Open Source Hub</strong><br>
 </div>
 <br>
 
@@ -62,7 +61,7 @@ active contributor to it by being part of our open source project. <br/>
 [Contribute](contribute.md)
 
 ## Code of Conduct
-
+Respectful and inclusive community: Read our 'Code of Conduct' for guidelines on expected behavior. <br/>
 [Code of Conduct](code-of-conduct.md)
 
 ## Licensing
@@ -72,6 +71,7 @@ The Open Source Hub Docs web application is licensed under the [MIT License](htt
 By contributing to this project, you agree to the following term: All contributions to this project will be copyrighted to Learn2Contribute.
 
 ## Contact Information
+Have questions, ideas, or want to discuss something? Click the 'Discussions' tab and join the conversation! <br/>
 [Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
 
 ## Thanks 💜
