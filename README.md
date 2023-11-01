@@ -6,12 +6,12 @@
 
 # Learn2Contribute
 
-Welcome to Learn2Contribute, an open source cross-platform web application compatible with Linux, Windows, and macOS. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. While we're currently in the design and prototype phase, we're dedicated to creating a dynamic platform that will bring the world of open source to life. 
+Welcome to Learn2Contribute, an open source web application. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. While we're currently in the design and prototype phase, we're dedicated to creating a dynamic platform that will bring the world of open source to life. 
 
 
 ## Our Mission
 
-Learn2Contribute, an open-source, gamified, cross-platform web application designed to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. With compatibility on Windows, Linux, and macOS, Learn2Contribute aims to create a fun and interactive environment where users can immerse themselves in the world of open source, gain valuable skills, and make meaningful contributions. Let's make learning not only educational but also enjoyable!
+Learn2Contribute, an open-source, gamified, web application designed to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. With compatibility on Windows, Linux, and macOS, Learn2Contribute aims to create a fun and interactive environment where users can immerse themselves in the world of open source, gain valuable skills, and make meaningful contributions. Let's make learning not only educational but also enjoyable!
 
 ## Development Phase
 
@@ -35,7 +35,7 @@ The project, "Learn2Contribute," aims to address this issue by providing a fun, 
 
 ## Key Features:
 
-- Cross-platform compatibility (Linux, Windows, macOS).
+- Browser based web application.
 - Gamified learning environment.
 - Inbuilt interactive coding environment.
 - Problem-solving challenges and learning paths.
