@@ -5,7 +5,57 @@
 </div>
 <br>
 
-# Who we are?
+# Learn2Contribute
+
+Welcome to Learn2Contribute, an open source cross-platform web application compatible with Linux, Windows, and macOS. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. While we're currently in the design and prototype phase, we're dedicated to creating a dynamic platform that will bring the world of open source to life. 
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Development Phase](#development-phase)
+- [Getting Started](#getting-started) 
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Our Mission
+
+Learn2Contribute, an open-source, gamified, cross-platform web application designed to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. With compatibility on Windows, Linux, and macOS, Learn2Contribute aims to create a fun and interactive environment where users can immerse themselves in the world of open source, gain valuable skills, and make meaningful contributions. Let's make learning not only educational but also enjoyable!
+
+## Features
+
+List the key features of your project. You can use bullet points for this section.
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Development Phase
+
+This project is currently in the **designing phase**. We are actively working on the initial project design and planning. The development phase will follow shortly. We are open to contributions and collaboration at this stage.
+
+## Getting Started
+
+Explain how to get involved in the project and contribute. Include clear and concise instructions.
+
+### Prerequisites
+
+List any prerequisites or dependencies that need to be installed or understood to contribute effectively.
+
+- Prerequisite 1
+- Prerequisite 2
+
+### Installation
+
+Provide instructions for setting up the development environment or any tools required for contributing.
+
+```bash
+# Example installation steps for contributors
+$ git clone https://github.com/yourusername/your-project.git
+$ cd your-project
+$ npm install
 
 ## Overvi
 
@@ -52,10 +102,6 @@ By contributing to this project, you agree to the following term: All contributi
 ## Contact Information
 
 Share contact details or links where interested individuals can reach out to you for questions, discussions, or collaboration.
-
-## Acknowledgments
-
-Acknowledge and thank individuals or projects that have inspired or supported your project's development.
 
 ## Thanks 💜
 Thanks for all your contributions and efforts towards Learn2Contribute. We thank you for being part of our ⭐ community ⭐.
