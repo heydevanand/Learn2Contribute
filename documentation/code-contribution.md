@@ -135,7 +135,7 @@ For more advanced Git and GitHub refer to our [Git Guide](/version-control/git.m
 
 By contributing content to Learn2Contribute, you agree to the following:
 
-- All contributions are subject to the project's chosen license, which is ([MIT License](LICENSE)). Your contributions will be covered by this license.
+- All contributions are subject to the project's chosen license, which is [MIT LICENSE]([MIT License](LICENSE)). Your contributions will be covered by this license.
 
 - You retain the copyright to your contributions while also granting a license to the project to use and distribute your work.
 
