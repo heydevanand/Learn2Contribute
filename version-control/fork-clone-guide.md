@@ -1,4 +1,4 @@
-#Fork, Clone, and Contribute to Learn2Contribute
+#Fork, Clone, and Contribute to Learn2Contribute <br/>
 This guide will walk you through the process of forking, cloning, and contributing to Learn2Contribute. We'll keep it brief and easy to follow.
 
 ## Step 1: Fork the Repository
