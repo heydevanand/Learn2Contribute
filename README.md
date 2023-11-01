@@ -9,99 +9,70 @@
 
 Welcome to Learn2Contribute, an open source cross-platform web application compatible with Linux, Windows, and macOS. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. While we're currently in the design and prototype phase, we're dedicated to creating a dynamic platform that will bring the world of open source to life. 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Development Phase](#development-phase)
-- [Getting Started](#getting-started) 
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Our Mission
 
 Learn2Contribute, an open-source, gamified, cross-platform web application designed to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. With compatibility on Windows, Linux, and macOS, Learn2Contribute aims to create a fun and interactive environment where users can immerse themselves in the world of open source, gain valuable skills, and make meaningful contributions. Let's make learning not only educational but also enjoyable!
 
-## Features
-
-List the key features of your project. You can use bullet points for this section.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Development Phase
 
 This project is currently in the **designing phase**. We are actively working on the initial project design and planning. The development phase will follow shortly. We are open to contributions and collaboration at this stage.
 
-## Getting Started
+## What we want?
 
-Explain how to get involved in the project and contribute. Include clear and concise instructions.
+In the dynamic landscape of technology and open source, there exists a gap between academic knowledge and industry-ready skills. Many aspiring individuals and students possess theoretical understanding but often lack practical exposure and awareness of open source contributions, technologies, opportunities, and competitions.
 
-### Prerequisites
+## Learn2Contribute's Objective
 
-List any prerequisites or dependencies that need to be installed or understood to contribute effectively.
+The project, "Learn2Contribute," aims to address this issue by providing a fun, interactive, and educational platform that promotes open source awareness, education, and engagement. This platform serves as a hub for:
 
-- Prerequisite 1
-- Prerequisite 2
+- Open Source Education: Learn2Contribute educates users about the principles and significance of open source software, fostering an understanding of collaborative development and community-driven projects.
 
-### Installation
+- Interactive Learning: Through gamified experiences, users can learn and practice open source concepts, programming, and related technologies in an engaging and enjoyable manner.
 
-Provide instructions for setting up the development environment or any tools required for contributing.
+- Knowledge Hub: Learn2Contribute offers resources and information about ongoing open source projects, emerging technologies, and opportunities like competitions, internships, and mentorship programs.
 
-```bash
-# Example installation steps for contributors
-$ git clone https://github.com/yourusername/your-project.git
-$ cd your-project
-$ npm install
+- Bridge Between Academics and Industry: By providing practical, hands-on experiences, the project narrows the gap between academic knowledge and industry-ready skills, empowering users to contribute to real-world projects and enhance their employability.
 
-## Overvi
+## Key Features:
 
-Introduce your project and provide a high-level overview of its purpose and goals. This section should be concise and engaging, capturing the essence of your project in a few sentences.
+- Cross-platform compatibility (Linux, Windows, macOS).
+- Gamified learning environment.
+- Inbuilt interactive coding environment.
+- Problem-solving challenges and learning paths.
+- Information about open source projects and opportunities.
+- Collaborative, open source development.
 
-## Problem Statement
+## Target Audience:
 
-Explain the problem or need your project aims to address. Describe the challenges or pain points that your project is intended to solve. Be specific and provide real-world examples if possible.
+- Students and educators interested in open source.
+- Novice programmers seeking hands-on experience.
+- Technology enthusiasts looking to contribute to open source.
+- Industry professionals interested in mentoring and knowledge sharing.
+- Open source project maintainers and contributors.
 
-## Project Goals
+## Expected Outcomes:
 
-Outline the key objectives of your project. What do you hope to achieve with this project? Include both short-term and long-term goals. Make it clear what success looks like.
+Learn2Contribute aspires to create a dynamic, inclusive, and vibrant community where learners become contributors, knowledge seekers become contributors, and academics align with industry practices. By fostering collaboration and open source involvement, the project seeks to empower individuals with the skills and experience required for success in the technology industry.
 
-## Core Values and Philosophy
+## Contribute
+Learn2Contribute aims to bridge the gap between academic world and industry ready skills. We think that open source is great way to solve this problem and you can become an
+active contributor to it by being part of our open source project. <br/>
 
-Share the guiding principles and core values that shape your project's philosophy. This section can include your commitment to open source, inclusivity, transparency, or any other principles that drive your project.
-
-## Target Audience
-
-Identify the primary audience for your project. Who will benefit from it the most? Understanding your target users is crucial for tailoring your project to their needs.
-
-## Features and Roadmap
-
-Discuss the planned features and development roadmap for your project. This can include upcoming milestones, enhancements, and new functionalities.
-
-## Contribution and Collaboration
-
-Explain how you envision collaboration and contributions from the open source community. Highlight that you welcome contributions from developers, designers, testers, and other potential contributors.
-
-## Getting Involved
-
-Provide clear steps for individuals interested in getting involved with your project. Include instructions on how to contribute, whether through code, documentation, testing, or community support.
+[Contribute](contribute.md)
 
 ## Code of Conduct
 
-Specify the code of conduct that contributors and participants are expected to follow. A code of conduct sets the tone for respectful and inclusive collaboration.
+[Code of Conduct](code-of-conduct.md)
 
 ## Licensing
 
-The Open Source Hub Docs web application is licensed under the [MIT License](LICENSE). 
+The Open Source Hub Docs web application is licensed under the [MIT License](https://github.com/rishikeshsamant/Learn2Contribute/blob/main/LICENSE). 
 
 By contributing to this project, you agree to the following term: All contributions to this project will be copyrighted to Learn2Contribute.
 
 ## Contact Information
-
-Share contact details or links where interested individuals can reach out to you for questions, discussions, or collaboration.
+[Discussions](https://github.com/rishikeshsamant/Learn2Contribute/discussions)
 
 ## Thanks 💜
 Thanks for all your contributions and efforts towards Learn2Contribute. We thank you for being part of our ⭐ community ⭐.
