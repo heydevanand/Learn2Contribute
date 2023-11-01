@@ -4,7 +4,22 @@
 </div>
 <br>
 
-This is a basic guide to introduce you to VS Code and provide an overview. We suggest you to go through it in one go and practice it in your system. Remember, you will have to practice regularly to make yourself handy with VS Code. Let's start: 
+This is a basic guide to introduce you to VS Code and provide an overview. We suggest you to go through it in one go and practice it in your system. Remember, you will have to practice regularly to make yourself handy with VS Code. 
+
+# Table of contents
+1. [Installation and setup](#installation-and-setup)
+2. [Basics of Text Editing](#basics-of-text-editing)
+3. [Basic Code Editing](#basic-code-editing)
+4. [Managing Projects](#managing-projects)
+5. [Version Control with Git](#version-control-with-git)
+6. [Debigging](#debugging)
+7. [Extensions and Customization](#extensions-and-customization)
+8. [Integrated Terminal](#integrated-terminal)
+9. [Code Navigation](#code-navigation)
+10. [Advanced Editing Features](#advanced-editing-features)
+11. [Source Control Integration](#source-control-integration)
+12. [Troubleshooting and Community](#troubleshooting-and-community)
+13. [What else VS Code offers?](#what-else-vs-code-offers)
 
 # Installation and Setup
 
