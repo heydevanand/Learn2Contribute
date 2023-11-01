@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Learn2Contribute</h1>
-  <strong>An Open Source Hub Docs.</strong><br>
+  <strong>An Open Source Hub</strong><br>
   <strong>Guidance to Learning, Gateway to Contributing.</strong>
 </div>
 <br>
