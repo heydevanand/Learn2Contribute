@@ -60,7 +60,7 @@ To maintain consistency and clarity in our content, follow these writing guideli
 
 We use Jupyter Lab and Markdown to create content. Jupyter Lab is a powerful environment for creating complex, interactive content, while Markdown is used for text-based content. To understand these tools completely and make any required changes to the content, refer to the following resources:
 
-- [Jupyter Lab Documentation](https://jupyterlab.readthedocs.io/en/stable/): Learn to use Jupyter Lab effectively for content creation.
+- [Jupyter Lab Guide](/documentation/jupyter.md): Learn to use Jupyter Lab effectively for content creation.
 
 - [Markdown Guide](/documentation/markdown.md): Familiarize yourself with Markdown formatting.
 
@@ -165,7 +165,7 @@ To use Git and GitHub effectively for content contribution, make sure you have G
    ```markdown
    git merge branch-name
    ```
-For more advanced Git and GitHub usage, refer to our [Git Guide](version-control/git.md) and [GitHub Guide](collaboration/github.md).
+For more advanced Git and GitHub usage, refer to our [Git Guide](/version-control/git.md) and [GitHub Guide](/collaboration/github.md).
 
 ## Copyright and Licensing
 By contributing content to Learn2Contribute, you agree to the following:
