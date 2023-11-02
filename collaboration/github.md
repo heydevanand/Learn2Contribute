@@ -56,7 +56,7 @@ Process of creating a GitHub account in more detail:
 # Setting Up Git
 Git is a version control system that interacts with GitHub.
 
-- Install Git: Refer to Installing Git [Git Guide](./version-control/git.md) 
+- Install Git: Refer to Git Installation section [Git Guide](/version-control/git.md).
 
 - Configure Git: Git needs to be configured with your GitHub credentials. To set the username and email that will be associated with your Git commits:
 
