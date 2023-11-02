@@ -34,10 +34,10 @@ This project follows a [Code of Conduct](CODE_OF_CONDUCT.md) to foster an open a
 
 6. Commit your changes with clear and concise commit messages that follow the Commit Messages guidelines:
 
-  ```markdown
-  git add .
-  git commit -m "Your commit message here"
-  ```
+   ```markdown
+   git add .
+   git commit -m "Your commit message here"
+   ```
 
 7. Push your changes to your forked repository:
 
