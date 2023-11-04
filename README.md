@@ -64,7 +64,7 @@ Respectful and inclusive community: Read our ['Code of Conduct'](code-of-conduct
 
 ## Licensing
 
-The Open Source Hub Docs web application is licensed under the [MIT License](https://github.com/rishikeshsamant/Learn2Contribute/blob/main/LICENSE). 
+The Learn2Contribute is licensed under the [MIT License](https://github.com/rishikeshsamant/Learn2Contribute/blob/main/LICENSE). 
 
 By contributing to this project, you agree to the following term: All contributions to this project will be copyrighted to Learn2Contribute.
 
