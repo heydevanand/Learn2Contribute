@@ -6,20 +6,16 @@
 
 # Learn2Contribute
 
-Welcome to Learn2Contribute, an open source web application. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. While we're currently in the design and prototype phase, we're dedicated to creating a dynamic platform that will bring the world of open source to life. 
-
+Welcome to Learn2Contribute, an open source hub. Our mission is to make learning about open source, programming, and related topics an engaging and fun experience. 
 
 ## Our Mission
 
-Learn2Contribute, an open-source, gamified, web application designed to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. With compatibility on Windows, Linux, and macOS, Learn2Contribute aims to create a fun and interactive environment where users can immerse themselves in the world of open source, gain valuable skills, and make meaningful contributions. Let's make learning not only educational but also enjoyable!
+Learn2Contribute, an open-source project to bridge the gap between academic knowledge and industry-ready skills. Our mission is to make learning about open source and contributing to it an engaging and interactive experience. We have started this project as an initiative to bring every thing together to make learning easy for our fellow open source enthusiasts. Let's make learning not only educational but also enjoyable!
 
-## Development Phase
-
-This project is currently in the **designing phase**. We are actively working on the initial project design and planning. The development phase will follow shortly. We are open to contributions and collaboration at this stage.
 
 ## What we want?
 
-In the dynamic landscape of technology and open source, there exists a gap between academic knowledge and industry-ready skills. Many aspiring individuals and students possess theoretical understanding but often lack practical exposure and awareness of open source contributions, technologies, opportunities, and competitions.
+In the dynamic landscape of technology and open source, there exists a gap between academic knowledge and industry-ready skills. Many aspiring individuals and students possess theoretical understanding but often lack practical exposure and awareness of open source contributions, technologies, opportunities, and competitions. Learn2Contribute is place which gives you chance to learn about open source as well as practice it real time by contributing to our project and other projects on GitHub.
 
 ## Learn2Contribute's Objective
 
@@ -31,24 +27,8 @@ The project, "Learn2Contribute," aims to address this issue by providing a fun, 
 
 - Knowledge Hub: Learn2Contribute offers resources and information about ongoing open source projects, emerging technologies, and opportunities like competitions, internships, and mentorship programs.
 
-- Bridge Between Academics and Industry: By providing practical, hands-on experiences, the project narrows the gap between academic knowledge and industry-ready skills, empowering users to contribute to real-world projects and enhance their employability.
+- Bridge Between Academics and Industry: By providing practical, hands-on experiences, the project narrows the gap between academic knowledge and industry-ready skills, empowering users to contribute to real-world projects and enhance their employability. We are using our project as place to learn as well as experiment, where first you can learn here about open source and then practice by contributing actively on our project as well as other projects.
 
-## Key Features:
-
-- Browser based web application.
-- Gamified learning environment.
-- Inbuilt interactive coding environment.
-- Problem-solving challenges and learning paths.
-- Information about open source projects and opportunities.
-- Collaborative, open source development.
-
-## Target Audience:
-
-- Students and educators interested in open source.
-- Novice programmers seeking hands-on experience.
-- Technology enthusiasts looking to contribute to open source.
-- Industry professionals interested in mentoring and knowledge sharing.
-- Open source project maintainers and contributors.
 
 ## Expected Outcomes:
 
