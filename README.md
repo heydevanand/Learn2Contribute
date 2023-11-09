@@ -27,7 +27,7 @@ The project, "Learn2Contribute," aims to address this issue by providing a fun, 
 
 - Knowledge Hub: Learn2Contribute offers resources and information about ongoing open source projects, emerging technologies, and opportunities like competitions, internships, and mentorship programs.
 
-- Bridge Between Academics and Industry: By providing practical, hands-on experiences, the project narrows the gap between academic knowledge and industry-ready skills, empowering users to contribute to real-world projects and enhance their employability. We are using our project as place to learn as well as experiment, where first you can learn here about open source and then practice by contributing actively on our project as well as other projects.
+- Bridge Between Academics and Industry: By providing practical, hands-on experiences, the project narrows the gap between academic knowledge and industry-ready skills, empowering users to contribute to real-world projects and enhance their employability. We are using our project as place to learn as well as experiment, where first you can learn here about open source and then practice by contributing actively on our project as well as other projects. We have curated an exclusive guide for new comers to open source, refer to our [New Contributors Guide](/new_contributors.md).
 
 
 ## Expected Outcomes:
