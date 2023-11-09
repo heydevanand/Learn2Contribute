@@ -23,7 +23,7 @@ The project, "Learn2Contribute," aims to address this issue by providing a fun, 
 
 - Open Source Education: Learn2Contribute educates users about the principles and significance of open source software, fostering an understanding of collaborative development and community-driven projects.
 
-- Interactive Learning: Through gamified experiences, users can learn and practice open source concepts, programming, and related technologies in an engaging and enjoyable manner.
+- Interactive Learning: We encourage you to actively contribute to open source projects while learning. Our project aims to make even a beginner capable to understand and contribute to open source.
 
 - Knowledge Hub: Learn2Contribute offers resources and information about ongoing open source projects, emerging technologies, and opportunities like competitions, internships, and mentorship programs.
 
