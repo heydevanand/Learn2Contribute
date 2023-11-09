@@ -1,0 +1,122 @@
+# Ignore local configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore environment-specific files
+*.env
+*.venv/
+.env/
+
+# Ignore compiled files
+*.pyc
+*.pyo
+__pycache__/
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+*.db
+*.sqlite
+*.tar.gz
+*.tgz
+*.gzip
+*.zip
+*.bzip2
+*.7z
+
+# Ignore images and media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.bmp
+*.webp
+*.svg
+*.mp3
+*.mp4
+*.avi
+*.flv
+*.mkv
+*.mov
+*.wav
+*.flac
+*.ogg
+
+# Ignore compiled binary files
+*.exe
+*.dll
+*.so
+*.out
+
+# Ignore temporary files
+*.swp
+*~
+*.bak
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore YAML files
+*.yaml
+*.yml
+
+# Ignore Markdown cache
+*.md.html
+
+# Ignore networking related files
+*.pcap
+*.cap
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore generated HTML files
+*.html
+
+# Ignore compiled Java bytecode
+*.class
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
