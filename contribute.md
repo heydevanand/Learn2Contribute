@@ -6,11 +6,12 @@ Thank you for your interest in contributing to Learn2Contribute! We welcome cont
 1. [How to Contribute](#how-to-contribute)
 2. [Using GitHub for Contributions](#using-github-for-contributions)
 3. [Setting Up a Pull Request](#setting-up-a-pull-request)
-4. [Fork and Clone the Repository](#fork-and-clone-the-repository)
-5. [Contributing by Writing Content](#contributing-by-writing-content)
-6. [Participating in Discussions](#participating-in-discussions)
-7. [Creating a Healthy and Welcoming Environment](#creating-a-healthy-and-welcoming-environment)
-8. [Resource Folders](#resource-folders)
+4. [Branching Strategy](#branching-strategy)
+5. [Fork and Clone the Repository](#fork-and-clone-the-repository)
+6. [Contributing by Writing Content](#contributing-by-writing-content)
+7. [Participating in Discussions](#participating-in-discussions)
+8. [Creating a Healthy and Welcoming Environment](#creating-a-healthy-and-welcoming-environment)
+9. [Resource Folders](#resource-folders)
 
 ## How to Contribute
 
@@ -37,6 +38,13 @@ If you're new to GitHub, you can familiarize yourself with the platform by readi
 ## Setting Up a Pull Request
 
 - Check out our guide on [Creating a Pull Request](./documentation/pull-request-guide.md) for detailed instructions.
+
+## Branching Strategy
+- **main:** The `main` branch contains only the read-only. You can't push changes directly to it.
+ 
+- **created-issue-branch:** To submit an issue. Make your changes and submit a pull request back to `created-issue-branch` when ready.
+
+- **feature-branch:** For adding new features or submit content, submit a pull request to `feature-branch` in format of `feature-<feature-name>`.
 
 ## Fork and Clone the Repository
 
