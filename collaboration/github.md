@@ -60,7 +60,7 @@ Git is a version control system that interacts with GitHub.
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
   ```
-- SSH Key (Optional): For added security and ease of authentication, consider generating an SSH key and linking it to your GitHub account. Provide instructions for creating an SSH key pair and adding the public key to your GitHub account.
+- SSH Key (Optional): For added security and ease of authentication, consider generating an SSH key and linking it to your GitHub account.
 
 # Creating a GitHub Repository
 
