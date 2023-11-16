@@ -43,7 +43,7 @@ Contributions come in many forms, including code, documentation, and discussions
 
 - **Documentation Contributions**: If you enjoy writing, our [Documentation Guide](./documentation/get-started-guide.md) will help you create and format documentation.
 
-- **Content Contributions**: Writers, check out the [Content Writing Guide](./content-writing/content-contribution.md) to start contributing content.
+- **Content Contributions**: Writers, check out the [Content Writing Guide](./documentation/content-contribution.md) to start contributing content.
 
 - **Join the Discussion**: Engage in discussions, share your insights, and help make decisions in the project's direction.
 
