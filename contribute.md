@@ -42,7 +42,7 @@ If you're new to GitHub, you can familiarize yourself with the platform by readi
 ## Branching Strategy
 - **main** The `main` branch contains only the read-only. You can't push changes directly to it.
  
-- **created-issue** To submit an issue. Make your changes and submit a pull request back to `created-issue-branch` when ready.
+- **created-issue** To submit an issue. Make your changes and submit a pull request back to `created-issue` when ready.
 
 - **feature-branch** For adding new features or submit content, submit a pull request to `feature-branch` in format of `feature-<feature-name>`.
 
