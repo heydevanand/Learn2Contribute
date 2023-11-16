@@ -554,10 +554,11 @@ Basic Definition List:
 To create a basic definition list, use colons : to define terms and indent the definitions:
 
 ```markdown
-Term 1:
-  Definition of Term 1
-Term 2:
-  Definition of Term 2
+Term 1
+:   Definition of Term 1
+
+Term 2
+:   Definition of Term 2
 ```
 
 Multiple Definitions for a Term:
