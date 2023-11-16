@@ -1,4 +1,4 @@
-# Welcome to Learn2Contribute
+# Welcome!
 
 We're thrilled to have you here! New to open source? Don't worry, we've all been there! Embrace the journey with enthusiasm, 
 knowing that every contribution, big or small, contributes to the greater good of the open-source community. Your unique perspective and skills are valuable, 
