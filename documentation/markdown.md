@@ -453,19 +453,19 @@ Definition Lists:
 A definition list consists of terms and their definitions. Terms are followed by a colon, and definitions are indented under the terms:
 
 ```markdown
-Term 1:
-  Definition 1
-Term 2:
-  Definition 2
-  Definition 3
+Term 1
+: Definition 1
+Term 2
+: Definition 2
+: Definition 3
 ``` 
 This will render as:
 
-Term 1:
-  Definition 1
-Term 2:
-  Definition 2
-  Definition 3
+Term 1
+: Definition 1
+Term 2
+: Definition 2
+: Definition 3
 
 Nested Lists Combination:
 
