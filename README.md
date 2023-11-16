@@ -40,7 +40,7 @@ active contributor to it by being part of our open source project. We welcome yo
 
 
 ## Code of Conduct
-Respectful and inclusive community: Read our ['Code of Conduct'](code-of-conduct.md) for guidelines on expected behavior. <br/>
+Respectful and inclusive community: Read our [Code of Conduct](code-of-conduct.md) for guidelines on expected behavior. <br/>
 
 ## Licensing
 
