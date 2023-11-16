@@ -462,10 +462,10 @@ Term 2
 This will render as:
 
 Term 1
-: Definition 1
+:  Definition 1
 Term 2
-: Definition 2
-: Definition 3
+:  Definition 2
+:  Definition 3
 
 Nested Lists Combination:
 
